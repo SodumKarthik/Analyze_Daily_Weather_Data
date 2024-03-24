@@ -1,4 +1,4 @@
-# Analyze_Daily_Weather_Data
+# Analyze Daily Weather Data
 
 The code was given in the name of Weather.py
 
